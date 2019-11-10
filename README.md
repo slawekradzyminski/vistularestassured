@@ -22,7 +22,7 @@
 
 6. Download API from https://drive.google.com/file/d/1lPMnqKBpvHAD_qLYI2YN-cL6M9MqejPY/view
 
-7. Run Jar
+7. Run Jar from command line
 
 `java -jar vistula-api.jar`
 
