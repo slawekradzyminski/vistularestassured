@@ -20,4 +20,18 @@
 
 ![Screenshot](setup/5.png)
 
-6. Go to ArenaTest class and run `myFirstSeleniumTest()`. It should work.
+6. Download API from https://drive.google.com/file/d/1lPMnqKBpvHAD_qLYI2YN-cL6M9MqejPY/view
+
+7. Run Jar
+
+`java -jar vistula-api.jar`
+
+8. Go to InformationControllerTest class and run test. It should work.
+
+9. API Swagger
+
+http://127.0.0.1:9999/swagger-ui.html
+
+10. API sources
+
+https://github.com/slawekradzyminski/vistulasampleapi
