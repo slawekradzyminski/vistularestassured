@@ -44,7 +44,7 @@ http://127.0.0.1:9999/swagger-ui.html
 
 ![Screenshot](setup/5.png)
 
-6. Go to InformationControllerTest class and run test. It should work.
+6. Go to InformationControllerTest class and run test. It should work (assuming that API is running on localhost).
 
 # More
 
