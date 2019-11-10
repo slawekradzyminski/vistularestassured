@@ -20,6 +20,8 @@
 
 http://127.0.0.1:9999/swagger-ui.html
 
+4. Application can be stopped by closing terminal or pressing CTRL + C
+
 # Project setup guide
 
 1. Open IntelliJ and select File -> New -> Project from Version Control -> Git
